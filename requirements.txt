@@ -1,4 +1,5 @@
-flask
-requests
-python-dotenv
-pytelegrambotapi
+flask  
+requests  
+python-dotenv  
+pytelegrambotapi  
+openai
